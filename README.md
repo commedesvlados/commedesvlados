@@ -1,5 +1,5 @@
-- 🔭 I'm currently considering options for a new job. Message me directly on [LinkedIn](https://www.linkedin.com/in/commedesvlados/)
-- ⚡ pls : <img src="./crazy_gopher_image.png" width="14" height="18" /> Go, JS/TS, Solidity, Rust
+🔭 I'm currently considering options for a new job. Message me directly on [LinkedIn](https://www.linkedin.com/in/commedesvlados/)
+⚡ pls : <img src="./crazy_gopher_image.png" width="14" height="18" /> Go, JS/TS, Solidity, Rust
 
 
 
