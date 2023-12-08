@@ -1,6 +1,6 @@
 - 🔭 I'm currently considering options for a new job. Message me directly on [LinkedIn](https://www.linkedin.com/in/commedesvlados/)
 - ⚡  Web<3
-- pls : <img src="./crazy_gopher_image.png" width="12" height="15" /> Go, JS/TS, Solidity, Rust
+- pls : <img src="./crazy_gopher_image.png" width="14" height="18" /> Go, JS/TS, Solidity, Rust
 
 - 
 
