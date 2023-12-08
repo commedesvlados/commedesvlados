@@ -2,7 +2,7 @@
 - ⚡  Web<3
 - pls : Go, JS/TS, Solidity, Rust
 
-- <img src="[https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/gokrazy-logo.png)" width="32.9" height="43.8" />
+- <img src="./blob/main/crazy_gopher_image.png" width="32.9" height="43.8" />
 
 
 
