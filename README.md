@@ -2,7 +2,7 @@
 - ⚡  Web<3
 - pls : Go, JS/TS, Solidity, Rust
 
-- ![image](https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg=20x20)
+- <img src="https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg" width="20" height="20" />
 
 ![alt text](https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg)
 
