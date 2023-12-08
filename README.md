@@ -1,5 +1,7 @@
+- 🔭 I'm currently considering options for a new job. Message me directly on [LinkedIn](https://www.linkedin.com/in/commedesvlados/)
 - 🔭 Go Backend Developer
-- ⚡  Web<3 Fun
+- ⚡  Web<3
+- pls : Go, JS/TS, Solidity, Rust
 
 ![alt text](https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg)
 
