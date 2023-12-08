@@ -1,4 +1,8 @@
-### Hi there 👋
+
+- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcppw7hF4GTrcz_9_-pLAwoHwcjbtiAuyN-A&usqp=CAU) Go Developer
+
+
+
 
 <!--
 **commedesvlados/commedesvlados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
