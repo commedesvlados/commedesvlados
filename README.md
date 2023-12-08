@@ -2,7 +2,7 @@
 - ⚡  Web<3
 - pls : Go, JS/TS, Solidity, Rust
 
-- <img src="./blob/main/crazy_gopher_image.png" width="32.9" height="43.8" />
+- <img src="./crazy_gopher_image.png" width="32.9" height="43.8" />
 
 
 
