@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/commedesvlados/commedesvlados/blob/main/412-4126527_say-hello-to-gitrob-gopher-github.jpg)
 
-
+![alt text](https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/gokrazy-logo.png)
 
 
 <!--
